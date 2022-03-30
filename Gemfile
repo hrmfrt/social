@@ -61,3 +61,4 @@ gem "jquery-rails"
 gem "dotenv-rails"
 
 gem "pg","~>1.3.4", group: :production
+
